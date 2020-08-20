@@ -9,7 +9,15 @@
 
 <p>- Languages</p>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-silas97&layout=compact&hide=html" alt="matheus-silas97" /></p>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></p>
+
+
+<p>- Academic education</p>
+<P>Graduation in Systems Analysis and Development - UNIP (Universidade Paulista)</p>
+<P>Technician in Business Administration - ETEC (Escola Técnica Estadual de São Paulo)</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-silas97&layout=compact&hide=html" alt="matheus-silas97" /></p>
+
 
 <p align="center">
 <a href="https://twitter.com/mr_noob97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mr_noob97" height="30" width="30" /></a>
