@@ -12,24 +12,16 @@
   💼 Ferramentas: <strong>Android Studio.</strong>
 </p>
 
-<p align="left">
-  💌 Para entrar em contato comigo: ⤵️
-</p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheus.silas123@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=matheus-silas97" /></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/matheus.silas/"/></a>
-  <a href="#" alt="Twitter">
-  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2Fmr_noob97"/></a>
-  
-</p>  
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-silas97&layout=compact&hide=html" alt="matheus-silas97" /></p>
+
+
+
+<p align="center">
+<a href="https://twitter.com/mr_noob97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mr_noob97" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/matheus-silas97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheus-silas97" height="30" width="30" /></a>
+<a href="https://instagram.com/matheus.silas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheus.silas" height="30" width="30" /></a>
+</p>
 	
