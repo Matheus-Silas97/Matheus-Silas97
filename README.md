@@ -29,4 +29,6 @@
 <a href="https://linkedin.com/in/matheus-silas97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheus-silas97" height="30" width="30" /></a>
 <a href="https://instagram.com/matheus.silas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheus.silas" height="30" width="30" /></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Matheus-Silas97&color=blue&style=flat)
 	
