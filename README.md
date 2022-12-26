@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: <strong>Kotlin e Java.</strong>
+  👨‍💻 Linguagens: <strong>Kotlin.</strong>
 </p>
 
 <p align="left">
@@ -13,8 +13,10 @@
 </p>
 
 <p align="left">
-  👨‍🎓 Formação Acadêmica: <strong>Análise e Desenvolvimento de Sistemas - Universidade Paulista (UNIP).</strong> <br>
-	<strong>Técnico em Administração - Escola Técnica Estadual de São Paulo (ETEC).</strong>
+  👨‍🎓 Formação Acadêmica:<br>
+	<strong>Pós-Graduação: Engenharia de Software - Estácio.</strong> <br>
+	<strong>Graduação: Análise e Desenvolvimento de Sistemas - Universidade Paulista (UNIP).</strong> <br>
+	<strong>Técnico: Técnico em Administração - Escola Técnica Estadual de São Paulo (ETEC).</strong>
 </p>
 
 
