@@ -14,8 +14,8 @@
 
 <p align="left">
   👨‍🎓 Formação Acadêmica:<br>
-	<strong>Pós-Graduação: Engenharia de Software - Estácio.</strong> <br>
-	<strong>Graduação: Análise e Desenvolvimento de Sistemas - Universidade Paulista (UNIP).</strong> <br>
+	<strong>Pós-Graduação: Engenharia de Software - Estácio;</strong> <br>
+	<strong>Graduação: Análise e Desenvolvimento de Sistemas - Universidade Paulista (UNIP);</strong> <br>
 	<strong>Técnico: Técnico em Administração - Escola Técnica Estadual de São Paulo (ETEC).</strong>
 </p>
 
