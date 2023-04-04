@@ -1,22 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Matheus Silas, sou <strong>Desenvolvedor Android Nativo</strong>.<br>
+  My name is Matheus Silas, i'm <strong>Native Android Developer</strong>.<br>
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: <strong>Kotlin.</strong>
+  👨‍💻 Languages: <strong>Kotlin.</strong>
 </p>
 
 <p align="left">
-  💻 Ferramentas: <strong>Android Studio.</strong>
+  💻 Tools: <strong>Android Studio.</strong>
 </p>
 
 <p align="left">
-  👨‍🎓 Formação Acadêmica:<br>
-	<strong>Pós-Graduação: Engenharia de Software - Estácio;</strong> <br>
-	<strong>Graduação: Análise e Desenvolvimento de Sistemas - Universidade Paulista (UNIP);</strong> <br>
-	<strong>Técnico: Técnico em Administração - Escola Técnica Estadual de São Paulo (ETEC).</strong>
+  👨‍🎓 Academic education:<br>
+	<strong>Postgraduate: Software Engineering - Estácio;</strong> <br>
+	<strong>Graduate: Analysis and systems development - Universidade Paulista (UNIP);</strong> <br>
+	<strong>Technical education: Administration Technician - Escola Técnica Estadual de São Paulo (ETEC).</strong>
 </p>
 
 
