@@ -9,10 +9,6 @@
 </p>
 
 <p align="left">
-  💻 Tools: <strong>Android Studio.</strong>
-</p>
-
-<p align="left">
   👨‍🎓 Academic education:<br>
 	<strong>Postgraduate: Software Engineering - Estácio;</strong> <br>
 	<strong>Graduate: Analysis and systems development - Universidade Paulista (UNIP);</strong> <br>
